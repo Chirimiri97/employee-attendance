@@ -1,0 +1,26 @@
+{
+  "name": "employee-attendance-api",
+  "version": "1.0.0",
+  "description": "A project to mark, regularize employees attendance.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chirimiri97/employee-attendance-api.git"
+  },
+  "author": "Chirag Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chirimiri97/employee-attendance-api/issues"
+  },
+  "homepage": "https://github.com/Chirimiri97/employee-attendance-api#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.1",
+    "nodemon": "^2.0.20"
+  }
+}
