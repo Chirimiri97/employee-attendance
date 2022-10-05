@@ -18,9 +18,12 @@
   },
   "homepage": "https://github.com/Chirimiri97/employee-attendance-api#readme",
   "dependencies": {
+    "body-parser": "^1.20.0",
     "dotenv": "^16.0.2",
     "express": "^4.18.1",
+    "joi": "^17.6.1",
     "mongoose": "^6.6.1",
+    "mongoose-sequence": "^5.3.1",
     "nodemon": "^2.0.20"
   }
 }
